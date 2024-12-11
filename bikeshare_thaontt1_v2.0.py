@@ -9,6 +9,7 @@ CITY_DATA = {
     'washington': 'washington.csv'
 }
 
+#ThaoNTT1 refactor 2nd
 CITIES = ['chicago', 'new york', 'washington']
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june', 'all']
 DAYS = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday', 'all']
