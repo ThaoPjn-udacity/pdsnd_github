@@ -8,6 +8,7 @@ bikeshare_thaontt1_v2.0
 
 ### Description
 bikeshare_thaontt1_v2.0
+Python file helps to execute programming bikeshare data read.
 
 ### Files used
 bikeshare_thaontt1_v2.0.py
